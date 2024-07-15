@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+h2 {
+  text-align: center;
+  font-size: 5vh;
+  margin-top: 50px;
+}
+.container {
+  padding: 30px;
+  margin-top: 200px;
+  align-items: center;
+  font-size: 6vh;
+}
+.container span {
+  font-size: 8.5vh;
+  padding: 0px 30px;
+}
+.container p {
+  font-size: 8.5vh;
+}
+.btn {
+  gap: 25px;
+  display: flex;
+  justify-content: center;
+}
+button {
+  font-size: 3vh;
+  border-radius: 10px;
+  padding: 5px 15px;
+}
+#laptime{
+  text-align: center;
+  font-size:4vh;
+  
+}
