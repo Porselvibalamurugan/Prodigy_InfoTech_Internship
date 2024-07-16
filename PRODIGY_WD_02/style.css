@@ -1,6 +1,7 @@
 body {
   display: flex;
   justify-content: center;
+  background-color: rgb(217, 165, 241);
 }
 h2 {
   text-align: center;
@@ -30,8 +31,7 @@ button {
   border-radius: 10px;
   padding: 5px 15px;
 }
-#laptime{
+#laptime {
   text-align: center;
-  font-size:4vh;
-  
+  font-size: 4vh;
 }
