@@ -1,4 +1,4 @@
-# Prodigy_Internship
+# Prodigy_InfoTech_Internship
 TASK 1:
  Interactive Navigation Menu :
 
