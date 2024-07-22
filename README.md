@@ -128,7 +128,7 @@ Feel free to modify and enhance the personal portfolio website to fit your speci
 TASK 5:
  Weather Web Page :
 
-This is a web page that fetches weather data from a weather API based on the user's location or a user-inputted location. It displays the current weather conditions, temperature, and other relevant information. The web page is built using HTML, CSS, and JavaScript.
+This is a web page that fetches weather data from a weather API based on the user's location or a user-input location. It displays the current weather conditions, temperature, and other relevant information. The web page is built using HTML, CSS, and JavaScript.
 
  Features :
 
