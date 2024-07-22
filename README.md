@@ -134,7 +134,7 @@ This is a web page that fetches weather data from a weather API based on the use
 
 - Fetches weather data from a weather API.
 - Displays the current weather conditions, temperature, and other relevant information.
-- Supports fetching weather data based on the user's location or a user-inputted location.
+- Supports fetching weather data based on the user's location or a user-input location.
 - Responsive design that adapts to different screen sizes.
 
  Technologies Used :
